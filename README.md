@@ -53,5 +53,3 @@ This project demonstrates how natural language models can generate human-like re
 | NLTK | Evaluation using BLEU score |
 
 ---
-
-## 🗂 Folder Structure
